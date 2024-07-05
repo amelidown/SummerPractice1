@@ -27,7 +27,7 @@ class MainActivity : AppCompatActivity() {
 
     private fun generateRandomCars(count: Int): List<Car> {
         val brands = listOf("Toyota", "Ford", "BMW", "Audi")
-        val models = listOf("Model1", "Model2", "Model3", "Model4")
+        val models = listOf("Машина1", "Машина2", "Машина3", "Машина4", "Машина5", "Машина6")
         val drives = listOf("передний", "задний", "полный")
         val types = listOf("Sedan", "SUV", "Truck", "Coupe")
 
